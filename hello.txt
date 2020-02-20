@@ -1,4 +1,5 @@
-Hello world !
+Hello.
 My name is Jérémy.
 Nice to meet you !
 What is your name ?
+I'm Lola
