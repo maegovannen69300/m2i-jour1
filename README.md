@@ -1,3 +1,4 @@
 # m2i-jour1
 
-This is an owesome project !
+Oh my god !
+This is a fucking owesome project... I love it !
